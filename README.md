@@ -1,3 +1,3 @@
-# Getting Started with React Project
+# Simple React Project
 
 ## Simple login page
